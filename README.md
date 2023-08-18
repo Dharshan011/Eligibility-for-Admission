@@ -20,7 +20,8 @@ Check the given condition using nested if statement.
 Display the output whether the student is eligible or not.
 
 ## Program:
-```using System;
+```
+using System;
 
 public class ConsoleApp1
 {
